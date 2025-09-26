@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKERHUB_USER = 'mags9'
-        IMAGE_NAME     = 'calculatorapp'
+        IMAGE_NAME     = 'test'
         IMAGE_TAG      = "latest"
     }
 
